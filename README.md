@@ -4,13 +4,12 @@
 
 ## fGP-DRT: finite Gaussian Process Distribution of Relaxation Times
 
-This repository contains some of the source code used for the paper titled *The Probabilistic Deconvolution of the Distribution of Relaxation Times with Finite Gaussian Processes*. Electrochimica Acta, 413, 140119. https://doi.org/10.1016/j.electacta.2022.140119. The article is available online at [Link](https://doi.org/10.1016/j.electacta.2022.140119) and in the [docs](docs) folder. 
+This repository contains some of the source code used for the paper titled *Cellular automata for the investigation of navigation dynamics and aircraft mix in terminal arrival traffic*. Physica A, 671 (2025), 130628. https://doi.org/10.1016/j.physa.2025.130628. The article is available online at [Link](https://doi.org/10.1016/j.physa.2025.130628) and in the [docs](docs) folder. 
 
 # Introduction
-Electrochemical impedance spectroscopy (EIS) is a tool widely used to study the properties of electrochemical systems. The distribution of relaxation times (DRT) is a widely used approach, in electrochemistry, biology and material science, for the analysis of electrochemical impedance 
-spectroscopy (EIS) data [1]. Deconvolving the DRT from EIS data is quite challenging because an ill-posed problem needs to be solved [2-5]. Several approaches such as ridge regression, ridge and lasso regression, Bayessian and hierarchical Bayesian, Hilbert transform and Gaussian process methods have been used [2-7]. Gaussian processes can be used to regress EIS data, quantify uncertainty, and deconvolve the DRT. However, previously developed DRT models based on Gaussian processes do not constrain the DRT to be non-negative and can only use the imaginary part of EIS spectra [8,9]. Therefore, we overcome both issues by using a finite Gaussian process approximation to develop a new framework called the finite Gaussian process distribution of relaxation times (fGP-DRT) [10]. The analysis on artificial EIS data shows that the fGP-DRT method consistently recovers exact DRT from noise-corrupted EIS spectra while accurately regressing experimental data. Furthermore, the fGP-DRT framework is used as a machine learning tool to provide probabilistic estimates of the impedance at unmeasured frequencies. The method is further validated against experimental data from fuel cells and batteries. In short, this work develops a novel probabilistic approach for the analysis of EIS data based on Gaussian process, opening a new stream of research for the deconvolution of DRT. 
 
-![Screenshot 2022-02-12 165048](https://user-images.githubusercontent.com/99115272/153704506-9184e95d-4a07-4233-ac7f-cbb4bbdee680.gif)
+
+<img width="607" height="370" alt="Image" src="https://github.com/user-attachments/assets/f73621d4-d229-4439-82db-e0015056b3c7" />
 
 # Dependencies
 numpy
