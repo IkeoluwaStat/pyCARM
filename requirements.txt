@@ -1,3 +1,5 @@
 matplotlib == 3.9.2
 numpy == 1.23.5
+Collections
+distinctipy
 
