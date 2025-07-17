@@ -40,7 +40,7 @@ Collections
 ```
 
 # References
-[1] Maradesa, A., Py, B., Quattrocchi, E., & Ciucci, F. (2022). The probabilistic deconvolution of the distribution of relaxation times with finite Gaussian processes. Electrochimica Acta, 413, 140119. https://doi.org/10.1016/j.electacta.2022.140119.
+[1] Ogedengbe, I. I., Tai, T. S., Wong, K. M., & Liem, R. P. (2025). Cellular automata for the investigation of navigation dynamics and aircraft mix in terminal arrival traffic. Physica A: Statistical Mechanics and its Applications, 130628.
 
-[2] Ciucci, F. (2018). Modeling electrochemical impedance spectroscopy. Current Opinion in Electrochemistry.132-139. https://doi.org/10.1016/j.coelec.2018.12.003. 
+[2] Ogedengbe, I. I., Wong, M. K., & Liem, R. P. (2023). A Comparative Analysis of Terminal Area Navigation and Conventional Standard Arrival Routes with Cellular Automata. In AIAA AVIATION 2023 Forum (p. 3969).
 
