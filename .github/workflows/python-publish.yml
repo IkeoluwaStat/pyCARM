@@ -1,7 +1,7 @@
 # Connect to the PYPI
-# documentation for pyDRTtools
+# documentation for pyCARM
 
-name: Build_PYPI_Latest
+name: Build_PYPI_Latest_1
 on:
   workflow_dispatch:
 jobs:
