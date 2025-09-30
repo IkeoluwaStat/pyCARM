@@ -1,4 +1,4 @@
-__authors__ = 'Ogendengbe Ikeoluwa Ireoluwa, R. H. Liem'
+__authors__ = 'I. I. Ogendengbe, R. P. Liem'
 
 __date__ = '17th July, 2025'
 
@@ -13,14 +13,14 @@ def readme():
         return ''
 
 dependencies = [
-    numpy,
-    matplotlib,
-    distinctipy,
+    'numpy',
+    'matplotlib',
+    'distinctipy',
 ]
 
 setuptools.setup(
     name = "pyCARM",
-    version = "1.0.0",
+    version = "1.0.2",
     author = "The Hong Kong University of Science",
     author_email = "iiogedengbe@connect.ust.hk",
     description = "pyCARM: Cellular Automata for Aircraft Arrival Modelling",
