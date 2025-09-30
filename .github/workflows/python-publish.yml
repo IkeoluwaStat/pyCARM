@@ -1,7 +1,7 @@
 # Connect to the PYPI
 # documentation for pyCARM
 
-name: Build_PYPI_Latest_1
+name: Build_PYPI_Latest_2
 on:
   workflow_dispatch:
 jobs:
