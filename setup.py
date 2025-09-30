@@ -13,9 +13,9 @@ def readme():
         return ''
 
 dependencies = [
-    numpy,
-    matplotlib,
-    distinctipy,
+    'numpy',
+    'matplotlib',
+    'distinctipy',
 ]
 
 setuptools.setup(
