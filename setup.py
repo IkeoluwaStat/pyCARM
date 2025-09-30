@@ -20,7 +20,7 @@ dependencies = [
 
 setuptools.setup(
     name = "pyCARM",
-    version = "1.0.1",
+    version = "1.0.2",
     author = "The Hong Kong University of Science",
     author_email = "iiogedengbe@connect.ust.hk",
     description = "pyCARM: Cellular Automata for Aircraft Arrival Modelling",
